@@ -1,3 +1,3 @@
 import instance from './server/Spawner';
 
-export const Socket = instance;
+export const Spyro = instance.socket;
